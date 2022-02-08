@@ -1,8 +1,6 @@
 .odd {
     background-color: rgb(150,60,60);
-    font: 'Verdana';
-    font: 'DejaVu Sans';
-    font-family: sans-serif;
+    font-family: Verdana, DejaVu Sans, sans-serif;
 }
 #element2 {
     color: rgb(0,0,255);
